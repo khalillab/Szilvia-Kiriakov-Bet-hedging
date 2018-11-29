@@ -9,5 +9,6 @@ The model assumes the following:
 - Fraction of mutants among reporter switched populations is the same on hygromycin and canavanine treatments
 -If the reporter did not switch color, the cells are the original prion type
 -Population composition is only altered during selection steps
+
 Outcome:
 -mutants overtake the population due to their increased survival under both conditions
