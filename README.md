@@ -11,4 +11,4 @@ The model assumes the following:
 -Population composition is only altered during selection steps
 
 Outcome:
--mutants overtake the population due to their increased survival under both conditions
+mutants overtake the population due to their increased survival under both conditions
