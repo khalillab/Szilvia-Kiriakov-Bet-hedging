@@ -1,4 +1,4 @@
-# Bet-hedging
+# prion-bet-hedging-model
 Modelling how a population of engineered prion bearing yeast cells behaves in fluctuating environments
 
 The yeast cells are engineered to survive in two synthetic environments depending on their prion status. Population survival fractions and mutant ratios are experimentally determined. Prion state is experimentally measured using a reporter.
@@ -12,3 +12,5 @@ The model assumes the following:
 
 Outcome:
 mutants overtake the population due to their increased survival under both conditions
+
+**Author:** Szilvia Kiriakov
